@@ -5,4 +5,5 @@ snapd denen lanet şeyi iptal etmeye yarar.
 
 ```bash
 chmod +x zero remove-snapd.sh
-sudo ./install.sh```
+sudo ./install.sh
+```
